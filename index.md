@@ -4,23 +4,8 @@ order: 2
 title: Home
 ---
 
-# Intro
+ENSIME was a project that lasted for 9 years from 2010 to 2019 and took contributions from hundreds of contributors. ENSIME pioneered community oriented development in the Scala community and was one of the first communities to introduce a code of conduct.
 
-ENSIME brings Scala and Java IDE-like features to your favourite text editor, such as:
+In 2018, the Scala Center chose to fund a from-scratch competitor to ENSIME rather than take over maintenance, named [Metals](https://scalameta.org/metals/), that makes this project irrelevant.
 
-- Show inferred types.
-- Contextual completion.
-- Semantic highlighting with `implicit` expansions.
-- Jump to source code or documentation.
-- Refactorings (rename, organise imports).
-- Errors and warnings in your code (i.e. "red squigglies").
-
-ENSIME is [Libre Software](https://www.gnu.org/philosophy/free-sw.en.html) and appeals to hackers, minimalists and connoisseurs - engineers and artists who craft their own exquisite tools and help their neighbour. If you would rather use a mainstream IDE, you will prefer [IntelliJ IDEA](https://www.jetbrains.com/help/idea/2016.1/creating-and-running-your-scala-application.html) or [Scala IDE](http://scala-ide.org/). We don't claim to be better, just different.
-
-## Getting Started
-
-If you would like to learn more, please read our [Getting Started](getting_started) section.
-
-## Sponsors
-
-Please consider [sponsoring a developer](sponsor) to ensure that ENSIME remains sustainable.
+Everybody is encouraged to use Metals instead of ENSIME, which is no longer active.
