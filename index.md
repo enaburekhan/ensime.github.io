@@ -4,8 +4,12 @@ order: 2
 title: Home
 ---
 
-ENSIME was a project that lasted for 9 years from 2010 to 2019 and took contributions from hundreds of contributors. ENSIME pioneered community oriented development in the Scala community and was one of the first communities to introduce a code of conduct.
+ENSIME was a Scala tooling project that lasted for ten years (2010 to 2019) and brought together hundreds of Free Software contributors from diverse backgrounds.
 
-In 2018, the Scala Center chose to fund a from-scratch competitor to ENSIME rather than take over maintenance, named [Metals](https://scalameta.org/metals/), that makes this project irrelevant.
+ENSIME pioneered community-oriented development in the Scala community and was one of the first communities to introduce a code of conduct.
 
-Everybody is encouraged to use Metals instead of ENSIME, which is no longer active.
+In 2018, the Scala Center chose to fund a from-scratch competitor named [Metals](https://scalameta.org/metals/). As a result, ENSIME is no longer relevant.
+
+Users are encouraged to install Metals.
+
+Contributors are encouraged to do something else with their precious time: be with family or just spend time surrounded by nature. You will not find happiness by engaging with the Open Source community; only exploitation and politics.
